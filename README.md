@@ -27,4 +27,3 @@ Estudante de Ciência da Computação (3° Periodo) com foco em desenvolvimento 
 ## Contato
 📧 Email: evangelistaguilherme07@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-evangelista-prudente-23240638a    
-💻 GitHub: github.com/GuilhermeEvangelista-dev
